@@ -4,29 +4,11 @@ You can use the [editor on GitHub](https://github.com/ggarberich/ggarberich.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Biden Transition Data 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a project that visualizes transition data from the Trump administration to the Biden administration 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+To view the project click [here](https://ggarberich.github.io/Biden%20Transition%20Data%20/).
 
 ### Jekyll Themes
 
