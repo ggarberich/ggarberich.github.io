@@ -4,7 +4,7 @@ My name is Garrett Garberich and I am currently a senior at the George Washingto
 
 ### Biden Transition Data 
 
-This is a project that visualizes transition data from the Trump administration to the Biden administration 
+This is a project that visualizes transition data from the Trump administration to the Biden administration.
 
 To view the project click [here](https://ggarberich.github.io/Biden%20Transition%20Data%20/).
 
@@ -14,7 +14,7 @@ To view my flexboard with important transition data click [here](https://ggarber
 
 ### R Assignment on Impeachment 
 
-This is a project that sorts and filters congresspeople based on how they voted on the impeachment of Donald Trump 
+This is a project that sorts and filters congresspeople based on how they voted on the impeachment of President Donald Trump. 
 
 To view the project click [here](https://ggarberich.github.io/R%20Assignment%201/).
 
