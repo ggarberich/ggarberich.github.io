@@ -12,7 +12,7 @@ To view my repository code for the project click [here](https://github.com/ggarb
 
 To view my flexboard with important transition data click [here](https://ggarberich.github.io/FlexBoard%20for%20Transition%20Data%20/#department-changes).
 
-## R Assignment on Impeachment 
+### R Assignment on Impeachment 
 
 This is a project that sorts and filters congresspeople based on how they voted on the impeachment of Donald Trump 
 
