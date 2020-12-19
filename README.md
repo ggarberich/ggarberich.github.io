@@ -18,10 +18,6 @@ This is a project that sorts and filters congresspeople based on how they voted 
 
 To view the project click [here](https://ggarberich.github.io/R%20Assignment%201/).
 
-### Jekyll Themes
+### Senior Capstone Website 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ggarberich/ggarberich.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For my capstone journalism project, my classmates and I produced two podcasts and a video project. To view these projects, please click [here](https://dispatchesfrom2020.wixsite.com/portfolio) to be redirected to our class website. 
